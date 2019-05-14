@@ -1,4 +1,4 @@
-# Apimocker en una imagen docker
+# APIMOCKER en una imagen DOCKER
 
 Dockerfile para la generación de una imagen 
 
