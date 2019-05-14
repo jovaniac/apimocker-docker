@@ -1,4 +1,4 @@
-Apimocker en una imagen docker
+# Apimocker en una imagen docker
 
 Dockerfile para la generación de una imagen docker
 Usage
@@ -15,6 +15,6 @@ CMD ["apimocker", "-c", "/api-clientes/node/config-generated.json", "-p", "8000"
 
 
 
-Contactame
+Contactame:
 
-Déjeme un comentario si tienes algun problema en este repositorio de github o un DM en @Jovani_Aarzate mi cuenta de Twitter
+Dejame un comentario si tienes algun problema en este repositorio de github o un DM en @Jovani_Aarzate mi cuenta de Twitter
